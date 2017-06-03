@@ -17,3 +17,9 @@ for live examples and documentation.
 Released under the New BSD License
 
 (c) Splunk, Inc 2012
+
+
+Changes from gwatts version
+Forked from: https://github.com/gwatts/jquery.sparkline
+Applied patches:
+https://github.com/gwatts/jquery.sparkline/pull/131
